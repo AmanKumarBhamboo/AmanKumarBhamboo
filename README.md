@@ -2,7 +2,7 @@
 
 <div align="center">
 
-Aman Kumar Bhamboo (Drazo)
+Aman Kumar Bhamboo 
 AI & Machine Learning Engineer | Data Scientist
 
 <p align="center">
