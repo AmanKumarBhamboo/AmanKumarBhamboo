@@ -9,6 +9,8 @@ I am a final-year B.Tech student specializing in **Artificial Intelligence and M
 *   **🌱 I'm currently learning:** Data Engineering and Analytics pipelines using SQL, Apache Spark, and Databricks.
 *   **💬 Ask me about:** Exploratory Data Analysis (EDA), data cleaning, Deep Learning research, and Python programming.
 ---
+![snake gif](https://github.com/AmanKumarBhamboo/AmanKumarBhamboo/blob/output/github-contribution-grid-snake.svg)
+---
 ## 🛠️ Tech Stack & Tools
 ### 🧠 Machine Learning & Data Analytics
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
