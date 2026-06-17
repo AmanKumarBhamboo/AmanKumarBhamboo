@@ -14,7 +14,9 @@ I am a final-year B.Tech student specializing in **Artificial Intelligence and M
 *   **💼 LinkedIn:** [linkedin.com/in/aman1402](https://www.linkedin.com/in/aman1402/)
 *   **📧 Email:** [amankumarbhamboo14022005@gmail.com](mailto:amankumarbhamboo14022005@gmail.com)
 ---
-![snake gif](https://github.com/AmanKumarBhamboo/AmanKumarBhamboo/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AmanKumarBhamboo/AmanKumarBhamboo/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 ---
 ## 🛠️ Tech Stack & Tools
 ### 🧠 Machine Learning & Data Analytics
