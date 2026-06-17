@@ -30,11 +30,8 @@ I am a final-year B.Tech student specializing in **Artificial Intelligence and M
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanKumarBhamboo&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 ---
-
 📫 Let's Connect!
-
 * **🌐 Website:** [bhamboo.tech](https://www.bhamboo.tech)
-
 * **💼 LinkedIn:** [linkedin.com/in/aman1402](https://www.linkedin.com/in/aman1402/)
-  
 * **📧 Email:** [amankumarbhamboo14022005@gmail.com](mailto:amankumarbhamboo14022005@gmail.com)
+---
